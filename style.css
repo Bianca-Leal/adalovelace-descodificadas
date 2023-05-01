@@ -34,8 +34,9 @@ h1{
 img{
     position: relative;
     top: 10px;
-    left: 100px;
-    height: 550px;
+    left: 120px;
+    height: 500px;
+    width: auto;
 }
 
 p{
